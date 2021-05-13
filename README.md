@@ -3,7 +3,7 @@
 - I am also very keen to do an end to end Problem solving for a Data Analytics Problems using my knowledge in Statistics, Programming and Data Modeling.
 - I am well versed in R and Python Programming. 
 - 🌱 I’m currently learning various Machine Learning Algorithms--> Supervised/ Unsupervised and Semisupervised along with NLP.
-- I’m looking to collaborate on any assignments/ internships where I can apply my knowledge and solve real world Problems.
+- I’m keen to learn the new tech and also solve real world Problems using my knowledge.
 - You can reach out to me via LinkedIn -->https://www.linkedin.com/in/bakulsp/
 
 <!---
